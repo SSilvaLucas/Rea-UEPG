@@ -1,0 +1,73 @@
+main h1{
+	font-size: 80px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bolder;
+	color: rgb(245,245,245);
+	padding-top: 80px;
+	padding-bottom: 40px;
+	background-color: rgb(138,182,155);
+}
+
+div{
+	padding-top: 150px;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 350px;
+	text-align: center;
+	background-color: rgb(245,245,245);
+}
+
+div h2{
+	padding-bottom: 50px;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+div h3{
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+
+div p{
+	text-indent: 2em;
+	font-size: 30px;	
+	line-height: 40px;
+	margin-top: 10px;
+}
+
+.icones-redes-sociais li {
+	display: inline-block;
+	padding-right: 20px;
+}
+
+.icones-redes-sociais a {
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-indent: -99999px;
+}
+
+.email {
+	background-image: url(../img/email_logo.png);
+}
+
+.face {
+	background-image: url(../img/facebook_logo.png);
+}
+
+.linkedin {
+	background-image: url(../img/linkedin_logo.png);
+}
+
+.github {
+	background-image: url(../img/github_logo.png);
+}
+
+.membro-foto {
+	padding-bottom: 20px;
+	top: 0;
+	right: 0;
+}

@@ -1,0 +1,57 @@
+body{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: auto;
+}
+
+nav{
+	background: #2C3E50;
+	padding: 25px;
+  	border: none;
+  	text-transform: uppercase;
+  	text-align: left;
+}
+
+nav li{
+	display: inline;
+	padding-right: 40px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+nav a:hover{
+	color: #18BC9C;
+}
+
+main h1{
+	font-size: 80px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bolder;
+	color: rgb(245,245,245);
+	padding-top: 80px;
+	background-color: rgb(138,182,155);
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
+
+footer li{
+	display: inline;
+	margin-right: 20px;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer a:hover{
+	text-decoration: underline; 
+}
